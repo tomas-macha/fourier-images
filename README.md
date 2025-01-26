@@ -6,4 +6,4 @@ There is a circle and a point on it. The point runs on the circle. The frequency
 
 The program renderes running points (and their sum) in the time. The result in a time creates a curve. The program allows you to create points and the program will compute coefficients, so the final curve goes through these points. The computation is by Fourier transformation.
 
-You can try it in the browser: [https://tomas-macha.github.io/fourier-images](https://tomas-macha.github.io/fourier-images). Enjoy.
+You can try it in the browser: [https://fourier-images.pages.dev/](https://fourier-images.pages.dev/). Enjoy.
